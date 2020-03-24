@@ -16,7 +16,7 @@
 
   - Ruby on Rails
 
-- Javascript
+- JavaScript
   - Vue/Vuex
   - Nuxt
   - React/Redux
@@ -33,7 +33,7 @@
 
 ### 2 社目 Web 受託開発 (2017/11 ~ 現在)
 
-##### 概要
+#### 概要
 
 - 前職で開発を希望するも叶わなかったため転職
 - Ruby on Rails を使った受託開発会社
