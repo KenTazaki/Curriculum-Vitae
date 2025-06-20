@@ -11,6 +11,7 @@
 | 住所     | 東京都練馬区                                        |
 | GitHub   | [KenTazaki](https://github.com/KenTazaki)           |
 | Wantedly | [田﨑けん](https://www.wantedly.com/users/65542659) |
+| YOUTRUST | [田﨑けん](https://youtrust.jp/users/a36068f767f8fcd7a14bbd9efeaaf5b7) |
 
 ## 自己 PR
 
